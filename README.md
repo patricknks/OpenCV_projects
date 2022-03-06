@@ -4,6 +4,6 @@ These are some recaps from my OpenCV projects after my study on Machine Vision i
 # required packages:
  * OpenCV
  * Numpy
- *Scikit-image
- *Scikit-learn
- *Matplotlib
+ * Scikit-image
+ * Scikit-learn
+ * Matplotlib
